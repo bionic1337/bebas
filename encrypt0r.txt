@@ -1,2 +1,3 @@
 nama: Wahyu Syafiuddin
 angkatan: 21
+divisi: ristek
